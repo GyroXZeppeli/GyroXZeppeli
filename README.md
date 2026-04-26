@@ -1,23 +1,23 @@
-Hi there 👋
+#Hi there 👋
 
-I am Usman Khan. i am currently pursuing my masters in computer application.
-Usually I work dataset and still improving everyday 
-You'll Love to tag along with me on my journey.
+I am Usman Khan. i am currently pursuing my masters in computer application.:Boy:
+Usually I work dataset and still improving everyday:Growth:
+You'll Love to tag along with me on my journey.:Redheart:
 
-This is a Fresh Profile i'll start posting my works and experiments here (Stay Tuned)
-
-___________________________________________________________________________________________________________________________________________________________________
-
--My Tech Stack-
-
-Python ( Libraries)
-ML (Learning )
-Power Bi
-MS Excel
+This is a Fresh Profile i'll start posting my works and experiments here (Stay Tuned):Grin:
 
 ___________________________________________________________________________________________________________________________________________________________________
 
--IMPORTANT_
+#My Tech Stack
+
+-:Snake: Python ( Libraries)
+-:Robot:ML (Learning )
+-:Muscle: Power Bi
+-:Graphs:MS Excel
+
+___________________________________________________________________________________________________________________________________________________________________
+
+-#MPORTANT
 
 - 🌱 I,m learning Data Science and Ml/AI concepts. 
      Working with data is just something i give my time on
