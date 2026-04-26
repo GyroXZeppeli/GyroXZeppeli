@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**GyroXZeppeli/GyroXZeppeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Usman Khan. i am currently pursuing my masters in computer application.
+Usually I work dataset and still improving everyday 
+You'll Love to tag along with me on my journey.
 
-Here are some ideas to get you started:
+This is a Fresh Profile i'll start posting my works and experiments here (Stay Tuned)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___________________________________________________________________________________________________________________________________________________________________
+
+-My Tech Stack-
+
+Python ( Libraries)
+ML (Learning )
+Power Bi
+MS Excel
+
+___________________________________________________________________________________________________________________________________________________________________
+
+-IMPORTANT_
+
+- 🌱 I,m learning Data Science and Ml/AI concepts. 
+     Working with data is just something i give my time on
+
+- 👯 I’m looking to collaborate on any new ideas that would provide worth
+     and both the parties are passionate about
+
+- 📫 How to reach me??? 
+    Linked in: https://www.linkedin.com/in/usman-khan-471b95315/
+    Instagram : 
+
+- ⚡ Fun fact: 
+- I love playing sports ( specially Football, Chess(Indoor too))
+- Love Astronomy (Stargazing is like hobby atp)
+- Reading Books and Articles 
